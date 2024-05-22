@@ -1,0 +1,2 @@
+# buzybeez.in
+php static
